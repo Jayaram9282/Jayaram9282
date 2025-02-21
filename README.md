@@ -1,13 +1,10 @@
-- 👋 Hi, I’m @Jayaram
-- 👀 I’m interested in ...
-- 
-- 🌱 I’m currently learning ... CSE
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+# Hi there, I'm [Jayaram]! 👋
 
-<!---
-Jayaram9282/Jayaram9282 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## About Me
+- 🌱 I’m currently learning [CSE]
+- 👯 I’m looking to collaborate on [Open Source Project/Interest]
+- 📫 How to reach me: [jayaramalfred@gmail.com]
+
+## Connect With Me
+[![Twitter](https://x.com/Jayaram07692825?t=EdM2EzFpNEtVh3_G47wxEQ&s=09)
+[![GitHub](https://github.com/Jayaram9282/Jayaram9282)
